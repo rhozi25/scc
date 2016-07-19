@@ -4,10 +4,10 @@
 //script config.php ini hanya menjalankan perintntah untuk koneksi ke-    //
 //server database yang telah dibuat.                                      //
 ////////////////////////////////////////////////////////////////////////////
-$server="localhost";//Nama Server
-$user="root";		//Nama User pemilik database di server
-$password="";		//password dari user
-$db_nya="scc";		//Data base yang dipilih dari server
+$server="ap-cdbr-azure-southeast-b.cloudapp.net";//Nama Server
+$user="b7b3c8a29c19a7";		//Nama User pemilik database di server
+$password="4cb14252";		//password dari user
+$db_nya="acsm_83f16baedba5d8f";		//Data base yang dipilih dari server
 
 ////////////////////////////////////////////////////////////////////////////
 //Ini adalah perintah untuk menyambung ke server dan data base yang sudah //
